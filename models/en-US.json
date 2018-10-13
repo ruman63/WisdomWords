@@ -1,0 +1,50 @@
+{
+  "interactionModel": {
+    "languageModel": {
+      "invocationName": "wisdom words",
+      "types": [
+
+      ],
+      "intents": [
+        {
+          "name": "AMAZON.CancelIntent",
+          "samples": [
+
+          ]
+        },
+        {
+          "name": "AMAZON.HelpIntent",
+          "samples": [
+
+          ]
+        },
+        {
+          "name": "AMAZON.StopIntent",
+          "samples": [
+
+          ]
+        },
+        {
+          "name": "QuotationIntent",
+          "slots": [
+          ],
+          "samples": [
+            "quotation",
+            "quote",
+            "give me a quote",
+            "give me quote",
+            "inspire",
+            "inspire me",
+            "give me inspiration",
+            "tell me a quote",
+            "tell me a quotation",
+            "words of wisdom",
+            "tell me words of wisdom",
+            "wisdom",
+            "wisdom words"
+          ]
+        }
+      ]
+    }
+  }
+}
